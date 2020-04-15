@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+
+    <!--
+       License Creative Commons 0 (like the public domain)
+       This file is provided with no warranty.
+       Names of contributors must not be used to endorse or promote products derived from this software without specific prior written permission.
+       Done by Konstantinov Aleksandr (freelanzer1) in 2020
+   -->
+
+
+
+    <string name="app_name">Clip Stack</string>
+    <string name="clip_notification_title">%1$s</string>
+    <string name="clip_notification_copy_button">Копировать</string>
+    <string name="clip_notification_share_button">Поделиться</string>
+    <string name="clip_notification_big_title">Последний буфер</string>
+    <string name="toast_copied">%1$s скопирован</string>
+    <string name="clip_notification_text">Разверните, чтобы показать больше.</string>
+    <string name="clip_notification_single_text">Нажмите, чтобы добавить текст.</string>
+    <string name="share_clipboard_to">Поделиться текстом с…</string>
+    <string name="title_activity_main">"Clip Stack"</string>
+    <string name="hello_world">Привет мир!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_search">Поиск</string>
+    <string name="search_hint">Поиск…</string>
+    <string name="title_activity_activity_setting">Настройки</string>
+    <string name="date_format">EEE, MMM dd</string>
+    <string name="time_format">HH:mm</string>
+    <string name="time_format_with_second">HH:mm:ss</string>
+    <string name="title_activity_activity_editor">Редактировать</string>
+    <string name="action_share">Поделиться</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_cancel">Отмена</string>
+    <string name="toast_deleted">Удален.</string>
+    <string name="action_refresh">Обновление</string>
+    <string name="toast_saved">Сохранено.</string>
+    <string name="toast_no_saved">Не сохранено.</string>
+    <string name="pref_storage_title">Место хранения</string>
+    <string name="pref_storage_dialog">Запомнить буфер обмена для:</string>
+    <string name="pref_about_category">О</string>
+    <string name="pref_about_title">Открытый исходный код</string>
+    <string name="pref_about_summary">Посмотреть исходный код на GitHub.</string>
+    <string name="pref_app_setting_category">Настройки приложения</string>
+    <string name="pref_service_title">Обслуживание</string>
+    <string name="pref_service_summary">Мониторить системный буфер обмена в фоновом режиме.</string>
+    <string name="pref_notification_title">Уведомление</string>
+    <string name="pref_notification_pin_title">Пин-Код уведомления</string>
+    <string name="pref_notification_pin_summary_on">Всегда показывать.</string>
+    <string name="pref_notification_pin_summary_off">Показывать только при изменении буфера обмена.</string>
+    <string name="action_delete">Удалить</string>
+    <string name="pref_storage_summary_infinite">Запомнить клипборды навсегда.</string>
+    <string name="pref_storage_summary_days">Запомнить клипборд на %d дней.</string>
+    <string name="title_activity_editor">Новый клипборд</string>
+    <string name="first_launch_clipboards_0">Добро пожаловать в Clip Stack. %1$s</string>
+    <string name="first_launch_clipboards_1">Он может показывать историю буфера обмена в уведомлениях.</string>
+    <string name="first_launch_clipboards_2">Нажмите здесь %1$s для редактирования.</string>
+    <string name="first_launch_clipboards_3">%1$s Проведите пальцем, чтобы удалить. %2$s</string>
+    <string name="title_activity_activity_get_share_text">Копировать в буфер</string>
+    <string name="action_add">Добавить</string>
+    <string name="action_delete_all">Очистить все</string>
+    <string name="dialog_delete_all">Вы уверены, что хотите очистить все?\nОтмеченные звездочками элементы будут сохранены.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="toast_undo">Отменить</string>
+    <string name="backup_file_name">"Clip Stack Резервная копия "</string>
+    <string name="backup_file_name_old">"Обрезка резервной копии "</string>
+    <string name="action_export">Экспорт</string>
+    <string name="action_import">Импорт</string>
+    <string name="export_success">Успешный экспор: </string>
+    <string name="export_failed">Экспорт не удался. Может быть, Нет SD-карты или она переполнена.</string>
+    <string name="dialog_date_piker_from">От даты:</string>
+    <string name="dialog_date_piker_to">До даты:</string>
+    <string name="pref_notification_summary_on">Показать уведомление.</string>
+    <string name="pref_notification_summary_off">Не показывать никаких уведомлений.</string>
+    <string name="title_activity_backup">Резервная копия</string>
+    <string name="switch_reverse_sort">Обратная сортировка</string>
+    <string name="action_backup">Резервная копия</string>
+    <string name="dialog_description_are_you_sure">Вы уверены?</string>
+    <string name="progress_importing">Импортирование…</string>
+    <string name="title_activity_new_backup">Новая резервная копия</string>
+    <string name="title_backups">Резервные копии</string>
+    <string name="action_new_backup">Новая резервная копия</string>
+    <string name="empty_card">Нет резервной копии</string>
+    <string name="toast_find_backup">%1$s резервное копирование в %2$s</string>
+    <string name="clip_notification_text_old">Нажмите, чтобы показать больше.</string>
+    <string name="action_star">Помеченные</string>
+    <string name="arrays_one_day">1 день</string>
+    <string name="arrays_three_days">3 дня</string>
+    <string name="arrays_seven_days">7 дней</string>
+    <string name="arrays_thirty_days">30 дней</string>
+    <string name="arrays_infinite">бесконечно</string>
+    <string name="clip_notification_starred_single_text">Нет помеченных пунктов.</string>
+    <string name="pref_storage_summary">Установить лимит истории буфера обмена.</string>
+    <string name="pref_rate_title">Оцени меня</string>
+    <string name="pref_rate_summary">Оцените это приложение, если считаете его полезным.</string>
+    <string name="pref_notification_priority_title">Приоритет уведомлений</string>
+    <string name="pref_notification_priority_summary">Установить приоритет уведомлений.</string>
+    <string name="pref_click_title">Нажмите для действия</string>
+    <string name="pref_click_summary">Установить нажатием и длинное нажатие для действия.</string>
+    <string name="pref_click_summary_false">Нажмите, чтобы редактировать. Длинное нажатие для копирования.</string>
+    <string name="pref_click_summary_true">Нажмите, чтобы редактировать. Длинное нажатие для редактирования.</string>
+    <string name="pref_notification_priority_low">\nНизкий - значок в статус баре.\nAt в конце уведомлений\n</string>
+    <string name="pref_notification_priority_middle">Средний - значок в статус баре.\nAt посередине уведомлений.</string>
+    <string name="pref_notification_priority_high">\nВысокий - значок в статус баре.\nAt с верху уведомлений.\n</string>
+    <string name="switch_only_starred_items">Только помеченные элементы буфера</string>
+    <string name="switch_all_items">Все элементы буфера</string>
+    <string name="toast_service_temporary_stop">Сервис на паузе.</string>
+    <string name="toast_service_temporary_resume">Сервис возобновлен.</string>
+    <string name="pref_floating_button">Плавающая кнопка</string>
+    <string name="pref_floating_button_summary">Показать плавающую кнопку на экране.</string>
+    <string name="accessibility_service_description" >Включите эту службу, чтобы получить больше возможностей:\n\n• Clip Stack не будет уничтожен системой, если не хватает оперативной памяти.\n• Показать плавающую кнопку буфера обмена при наборе текста на Android Lollipop +. (Пока не поддерживает браузеры)\n• Вскоре появятся новые функции.</string>
+    <string name="pref_ping_floating_button">Когда показать</string>
+    <string name="pref_ping_floating_button_summary_always">Всегда показывать на экране.</string>
+    <string name="pref_ping_floating_button_summary_typing">Показывать только при наборе текста. (Пока не поддерживает браузеры)</string>
+    <string name="pref_ping_floating_button_summary">Когда показывать плавающую кнопку.</string>
+    <string name="accessibility_dialog_title">Требования доступа</string>
+    <string name="accessibility_dialog_summary">Эта функция требует разрешения доступа. \nПожалуйста, включите в настройках Android.</string>
+    <string name="accessibility_dialog_ok">Открыть настройки</string>
+
+</resources>
